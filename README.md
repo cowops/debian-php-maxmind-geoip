@@ -1,7 +1,7 @@
 Debian-GeoipcityDatabase
 ========================
 
-Maxmind goip database for PHP
+Maxmind geoip database for PHP
 
 Requirements
 ------------
