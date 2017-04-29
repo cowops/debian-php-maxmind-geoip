@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: loranger.debian-php-maxmind-geoip, license_key: "" }
+         - { role: cowops.debian-php-maxmind-geoip, license_key: "" }
 
 Tasks
 -----
